@@ -1,0 +1,103 @@
+1.What is ajax
+2.Ajax Formate
+3.Position in CSS(Static,Sticky,Fixed,Relative,Absolute)
+4.Semantic tags in HTML-5
+5.Use of semantic tags
+6.HTML formating tags
+7.Block level and Inline Elements
+8.Paired tags/Embedded tags
+9.Non-paired tags/Standard alone tags
+10.Pseudo classes
+11.Psedo Elements
+12.Selectors in CSS
+13.Data types in java script
+14.=,==,=== Difference.
+15.Box model
+16.Break and  Coutinue statement.
+17.Event propagation in js
+18.Local storage and session storage difference
+19.Remove element from json
+20.How can you perform json
+21.What is promise function
+22.Type of variables
+23.How many ways we can create an Object
+24.What is DOM manipulation
+25.Array methods
+26.Types of Events
+27.How do you link css files to HTML document
+28.Cookie storage
+29.Constructor
+30.Scopes in javscript
+31.In javascript how to give styles
+32.what is HTML-5 new changes
+33.What library we are using in your project
+34.what frame work you are using in your project
+35.Ptotypes in javascript
+36.How we will create responsive web design.
+37.Oject types.
+38.Pupose of use <!DOCTYPE html>  in your web page.
+39.How to delete property in object.
+40.i-frame use.
+41. CSS Animations 
+42.mobile,tablet,desktop pixels 
+44.D/F Bootstrap 3 and Bootstrap 4.
+45.em  & rem Difference
+46.D/F LESS and SASS
+47.Default position
+48.Web Workers
+49.HTML & XHTML Differences
+50.Explain float property
+51.How fixed one element vertically horizontally center.
+52.Border-box,Border-content D/F.
+53.Bakground Image in CSS.
+54.LESS usage.
+55.HTML local storage system.
+56.Find length of the array.
+57.Add array element by using js
+58.How many ways we are define functions
+59.SetIntervel
+60.Ajax methods
+61.Jquery Click
+62.Call back functions 
+63.Revealing module pattern in js
+64.Clousers in javascript
+65.Difference in js and jquery
+66.What is prototype.
+67.CSS3 new features.
+68.Ternary Operator
+69.Befor and After pseduo Elements
+70.How to convert json object in string
+71.What is anchor tag.
+72.HTML Editors
+73.Responsive and Fluid D/F
+74.Why you are using javascript
+75.Contional Statements,
+76.For and While D/F
+77.switch Case.
+78.String methods.
+79.Inside iframe i have one element how to get that element.
+80.hoistings
+81.Self invoking Fuctions
+82.Cotainer and container-fluid Difference in bootstrap
+83.css and css3 Differences
+84.var, let, const keywords in js
+85.Query selector
+86.XML and HTML Diferences
+87.What is Meta tags in HTML
+88.Sprite images
+89.OOPS Concepts in js
+90.Email validations
+91.display:table Property.
+92.push and pull in bootsrap grid system.
+93.Cross browser comparability.
+94.z-index use.
+95.Display:none and visibility:hidden D/f
+96.String reverse code.
+97.Prime numbers code.
+98.slice and splice methods
+99.<pre>, <p> tag difference.
+100.Bootstrap Compenents.
+101.Gradiants 
+102.Grphics in HTML
+103.What are the button classes in bootstrap.
+
